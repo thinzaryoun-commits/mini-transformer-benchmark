@@ -1,11 +1,5 @@
-# CPE663-mini-transformer-benchmark
-Mini Transformer benchmark project for CPE 663: Multilingual and Low Resource NLP
 
-## Course
-CPE 663: Multilingual and Low Resource NLP
-
-## Assignment
-Major Assignment III – Building a Mini Transformer and Producing a Small Benchmark
+# Mini Transformer benchmark 
 
 ## Overview
 
